@@ -38,7 +38,7 @@ export default {
       HTTP_URL: process.env.HTTP_URL,
       AUTH_TOKEN: process.env.AUTH_TOKEN,
       eas: {
-        projectId: "19361b8a-080d-47fb-bd13-4281ae1fb1c4"  // Añade esta línea
+        projectId: "" 
       }
     }
   }
